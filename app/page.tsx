@@ -5,6 +5,7 @@ import Link from 'next/link'
 import Spline  from '@splinetool/react-spline'
 import infoCards from './libs/InfoCart';
 import pricingCards from './libs/PrincingCard';
+import { ReactElement } from 'react'; // Add this line
 import { AlarmClockOff , ArrowDownNarrowWide , ArrowUpNarrowWide , CheckCheck, LucideIcon } from "lucide-react";
 
 
